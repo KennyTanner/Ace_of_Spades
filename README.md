@@ -1,8 +1,8 @@
 # Ace_of_Spades
 
-A little dabble in JavaScript, HTML and CSS, performed primarily as a taster and to gain some insight into some of the widly used languages out there.
+A little dabble in JavaScript, HTML and CSS, performed primarily as practice in some widely used languages that I do not utilise in my day to day.
 
-Built the simple game where the user is shown 4 cards which are then rearranged face down, and the user guesses where the ace of spades is.
+Built a simple game. In which, the user is shown 4 cards. They are then rearranged face down and the user guesses where the ace of spades is!
 
 - dynamic user interface
 - animation effects
